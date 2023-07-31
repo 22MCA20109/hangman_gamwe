@@ -1,1 +1,1 @@
-# hangman_gamwe
+# hangman_game
